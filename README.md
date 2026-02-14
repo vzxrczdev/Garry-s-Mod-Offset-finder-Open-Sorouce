@@ -1,4 +1,4 @@
-# Arctic Offset Detector - Garry's Mod
+# READ OR WILL NOT COMPILE!!
 
 A modern offset scanner for Garry's Mod with a clean ImGui interface.
 
