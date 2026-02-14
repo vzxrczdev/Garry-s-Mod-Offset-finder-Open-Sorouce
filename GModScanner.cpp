@@ -408,8 +408,10 @@ public:
 void ShowMenu()
 {
     std::cout << "\n========================================\n";
+    std::cout << "       ArcticSoftwares\n";
     std::cout << "  Garry's Mod Offset Scanner\n";
     std::cout << "  Educational purposes only!\n";
+    std::cout << "  Last update - 14.02.2026\n";
     std::cout << "========================================\n\n";
 }
 
@@ -617,3 +619,4 @@ int main()
     std::cin.get();
     return 0;
 }
+
